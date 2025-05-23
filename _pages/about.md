@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Lyutianyang Zhang received his B.E. degree in electronic communication from The Australian National University and Beijing Institute of Technology in 2017. He received the M.Sc. degree and Ph.D. degree in Electrical Engineering from the University of Washington, Seattle, WA, USA, in 2019 and 2023, respectively. He is currently an Assistant Professor at the Chongqing University with the School of Microelectronics and Communication Engineering. He is an active contributor and voter in the IEEE 802.11bn (Wi-Fi 8) Working Group, focusing on PHY and MAC standardization. Previously, he worked as a Wi-Fi Performance Software Engineer at Apple, Cupertino, CA, focusing on PHY/MAC layer performance evaluation and optimization for commercial wireless products. His research interests include PHY-MAC cross-layer resource optimization for next-generation wireless networks. deep learning-based wireless algorithm design, 5G NR sidelink simulation, Wi-Fi 7/8 system design.
 
 A data-driven personal website
 ======
