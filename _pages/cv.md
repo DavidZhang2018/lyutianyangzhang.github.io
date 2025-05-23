@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, the University of Washington, 2023
+* M.S. in Applied Math, the University of Washington, 2022
+* M.S. in Electrical Engineering, in the University of Washington, 2019
+* B.S. in Engineer, The Australian National University, 2017
+* B.S. in Electronic Science and Technology, Beijing Institute of Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023/06-2024/05: Assistent Professor
+  * Chongqing University, The School of Micro-Electronics and Communication Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024/09-2025/02: Senior Wi-Fi Standard Engineer
+  * Huawei Co. Ltd.
+  * Duties includes: Wi-Fi 7/8 Standardization 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023/06-2024/05: Wi-Fi Performance Software Engineer
+  * Apple Inc., Wireless
+  * Duties includes: iPhone Wi-Fi Technology, PHY&MAC layer Performance, Wireless Automation, Link Adaptation, Test Setup and Data Analysis. 
+  * Supervisor: Sungho Yun
+
+* 2022/06-2022/10: 5G System Engineer
+  * Celona Inc.
+  * Duties included: 5G O-RAN system integration, data analysis, and performance test
+  * Supervisor: Vanlin Sathya 
   
 Skills
 ======
