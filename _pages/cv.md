@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2023/06-2024/05: Assistent Professor
+* 2025/02-Now: Assistent Professor
   * Chongqing University, The School of Micro-Electronics and Communication Engineering
 
 * 2024/09-2025/02: Senior Wi-Fi Standard Engineer
