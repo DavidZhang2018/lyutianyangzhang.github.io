@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-9789-946X"
       },
       {
         "network": "GitHub",
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Washington",
+      "area": "Ph.D in Electrical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Washington",
+      "area": "M.Sc. in Electrical Engineering and Applied Math",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Australian National University",
+      "area": "B.S. in Engineering (First Honor)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }
