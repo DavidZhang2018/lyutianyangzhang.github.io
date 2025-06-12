@@ -11,5 +11,6 @@ Lyutianyang Zhang received his B.E. degree in electronic communication from The 
 
 For more info
 ------
-linkedin: https://www.linkedin.com/in/lyutianyang-zhang-363407150/
-google scholar: https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ&view_op=list_works&sortby=pubdate
+*linkedin: https://www.linkedin.com/in/lyutianyang-zhang-363407150/
+
+*google scholar: https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ&view_op=list_works&sortby=pubdate
