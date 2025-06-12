@@ -41,37 +41,37 @@ will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
 
 Key Publications
 ------
-[1]: Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
+Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
 and High Reliability”, Accepted, IEEE Transactions on Green Communications and Networking.
 
 
-[2]: Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao∗, Xiangyu Gao and Valin Sathya, “IEEE 802.11be Network Throughput
+Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao∗, Xiangyu Gao and Valin Sathya, “IEEE 802.11be Network Throughput
 Optimization with Multi-Link Operation and AP Controller,” IEEE Internet of Things Journal, vol. 11, no. 13, pp. 23850-23861, 1
 July1, 2024.
 
-[3]: Lyutianyang Zhang, Yaping Sun, Zhiyong Chen∗ and Sumit Roy, “Communications-Caching-Computing Resource Allocation for
+Lyutianyang Zhang, Yaping Sun, Zhiyong Chen∗ and Sumit Roy, “Communications-Caching-Computing Resource Allocation for
 Bidirectional Data Computation in Mobile Edge Networks,” IEEE Transactions on Communications, vol. 69, no. 3, pp. 1496-1509,
 March 2021.
 
-[4]: Hao Yin, Lyutianyang Zhang(Corresponding Author) and Sumit Roy, “Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair
+Hao Yin, Lyutianyang Zhang(Corresponding Author) and Sumit Roy, “Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair
 Scheduling,“ IEEE Transactions on Communications, vol. 69, no. 2, pp. 1080-1093, Feb. 2021.
 
-[5]: Liu Cao, Lyutianyang Zhang(Corresponding Author), Sian Jin and Sumit Roy, “Revisiting Multi-User Downlink in IEEE 802.11be/bn: A Designers
+Liu Cao, Lyutianyang Zhang(Corresponding Author), Sian Jin and Sumit Roy, “Revisiting Multi-User Downlink in IEEE 802.11be/bn: A Designers
 Guide to MU-MIMO”, Major Review, IEEE Communications Standard Magazine.
 
-[6]: Zhengchuan Chen, Junyao Zhu, Nikolaos Pappas, Lyutianyang Zhang(Corresponding Author), and Min Wang, “Real-Time Status Update System in A
+Zhengchuan Chen, Junyao Zhu, Nikolaos Pappas, Lyutianyang Zhang(Corresponding Author), and Min Wang, “Real-Time Status Update System in A
 Parallel Blocking Queue,” IEEE Open Journal of the Communications Society, vol. 6, pp. 4608-4623, 2025.
 
-[7]: Lyutianyang Zhang, Hao Yin(Corresponding Author), Sumit Roy, and Liu Cao,“Multi-Access Point Coordination for Next-Gen Wi-Fi Networks Aided
+Lyutianyang Zhang, Hao Yin(Corresponding Author), Sumit Roy, and Liu Cao,“Multi-Access Point Coordination for Next-Gen Wi-Fi Networks Aided
 by Deep Reinforcement learning,” IEEE Systems Journal, vol. 17, no. 1, pp. 904-915, March 2023.
 
-[8]: Xiangyu Gao, Hao Yin, Sumit Roy, and Lyutianyang Zhang(Corresponding Author),“Static Background Removal in Vehicular Radar: Filtering in
+Xiangyu Gao, Hao Yin, Sumit Roy, and Lyutianyang Zhang(Corresponding Author),“Static Background Removal in Vehicular Radar: Filtering in
 Azimuth-Elevation-Doppler Domain,” in IEEE Sensors Journal, vol. 25, no. 3, pp. 5249-5258, 2025.
 
-[9]: L. Cao, Lyutianyang Zhang, Sumit Roy, “Efficient PHY Layer Abstraction under Imperfect Channel Estimation,” IEEE
+L. Cao, Lyutianyang Zhang, Sumit Roy, “Efficient PHY Layer Abstraction under Imperfect Channel Estimation,” IEEE
 Wireless Communications Letters, vol. 12, no. 3, pp. 530-534, March 2023.
 
-[10]: Peng Liu, Chen Shen, Chunmei Liu, Fernando J. Cintr´on, Lyutianyang Zhang, Liu Cao, Richard Rouil, Sumit Roy, “Towards
+Peng Liu, Chen Shen, Chunmei Liu, Fernando J. Cintr´on, Lyutianyang Zhang, Liu Cao, Richard Rouil, Sumit Roy, “Towards
 5G new radio sidelink communications: A versatile link-level simulator and performance evaluation,” Computer Communications,
 Volume 208, 2023, Pages 231-243, ISSN 0140-3664.
 
