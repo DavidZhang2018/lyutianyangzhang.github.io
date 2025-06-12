@@ -38,31 +38,26 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Optimization Theory
+* Coding
+  * Pytorch & Python
+  * Matlab
+  * NS-3
+* Wi-Fi & Cellular Standarization
+* Wireless hardware Setup (Wi-Fi & 5G O-RAN)
+  * Wireless Automation
+  * Firmware Development
+  * Wireshark
+  * Data collection
+  * Data visualization
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please See Home Page.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Probability and Random Process, University of Washington: 
+
+Computer Networking, University of Washington: 
