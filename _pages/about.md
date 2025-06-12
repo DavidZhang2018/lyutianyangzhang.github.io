@@ -74,8 +74,8 @@ will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
 
 Research Project
 ------
-IEEE 802.11ax/be Link-Level Simulator Design and Optimized Channel Sounding            University of Washington Matlab, Seattle, WA
-                                                                                                                 Advisor: Sumit Roy
+IEEE 802.11ax/be Link-Level Simulator Design and Optimized Channel Sounding                      University of Washington Matlab, Seattle, WA
+                                                                                                                           Advisor: Sumit Roy
 
 This simulator is design for full phy layer plus frame level packet exchange for IEEE 802.11ac/ax/be performance analysis on
 packet level emphasizing channel sounding considering time-varying IEEE channel model. The channel sounding period optimization is one of the major advancing direction in next-Gen WiFi system because the channel sounding period and the correspondingly introduced overhead can impact the overall network throughput
@@ -84,21 +84,16 @@ optimal channel sounding period. Optimization theory, machine learning technique
 channel sounding period with high time-complexity and sub-optimal channel sounding period with lower time-complexity for
 universal WiFi systems.
 
+Efficient PHY Layer Abstraction under Imperfect Channel Estimation for Wi-Fi and B5G Systems      University of Washington Python/NS3-3, Seattle, WA 
+                                                                                                                  Advisor: Sumit Roy, Tom Henderson
 
+As network simulators such as NS3 have been suffering from the large computational complexity in the physical (PHY) layer,
+a PHY layer abstraction model that efficiently and accurately characterizes the PHY layer performance from the system level
+simulations is well-needed. This project improves an efficient PHY layer method, EESM-log-SGN PHY layer abstraction, by
+considering the presence of channel estimation error. Finally, the developed methods are validated under different orthogonal
+frequency division multiplexing (OFDM) scenarios.
 
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+linkedin: https://www.linkedin.com/in/lyutianyang-zhang-363407150/
