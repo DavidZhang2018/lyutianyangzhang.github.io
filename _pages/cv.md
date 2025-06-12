@@ -58,6 +58,6 @@ Please See Home Page.
   
 Teaching Experience
 ======
-Probability and Random Process, University of Washington: 
+Probability and Random Process, University of Washington.
 
-Computer Networking, University of Washington: 
+Computer Networking, University of Washington.
