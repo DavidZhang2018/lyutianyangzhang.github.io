@@ -92,3 +92,50 @@ Teaching Experience
 Probability and Random Process, University of Washington.
 
 Computer Networking, University of Washington.
+
+Patent & Wi-Fi 8 Standard Proposal
+------
+Lyutianyang Zhang, et. al., “Support NPCA in Co-TDMA”, IEEE 802.11-25/0204, Huawei.
+
+Lyutianyang Zhang, et. al., “AP ID Notification in MAPC with Coexisting NPCA”, Inside Patent ID (Huawei), 92080862, will
+be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “Proportional Fairness in CTDMA”, Inside Patent ID (Huawei), 92078108, will be issued by the end
+of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “NPCA in CTDMA”, Inside Patent ID (Huawei), 92078107, will be issued by the end of 2025, key
+Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “Cross-link-aided Channel Switch in NPCA”, Inside Patent ID (Huawei), 92075068, will be issued
+by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “AP ID Notification in MAPC with Coexisting NPCA”, Inside Patent ID (Huawei), 92080862,
+submitted at 2024-12-02, will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “ LDPC reliability enhancements”, Inside Patent ID (Huawei), 92078768, submitted at 2024-12-02,
+will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Research Project
+------
+IEEE 802.11ax/be Link-Level Simulator Design and Optimized Channel Sounding                      
+                                                                                      University of Washington Matlab, Seattle, WA
+                                                                                      Advisor: Sumit Roy
+
+This simulator is design for full phy layer plus frame level packet exchange for IEEE 802.11ac/ax/be performance analysis on
+packet level emphasizing channel sounding considering time-varying IEEE channel model. The channel sounding period optimization is one of the major advancing direction in next-Gen WiFi system because the channel sounding period and the correspondingly introduced overhead can impact the overall network throughput
+significantly. In this project, channel sounding period problem is formulated as a non-convex problem, which brings huge challenge to
+optimal channel sounding period. Optimization theory, machine learning techniques are utilized to propose the algorithm to pinpoint the globally optimal
+channel sounding period with high time-complexity and sub-optimal channel sounding period with lower time-complexity for
+universal WiFi systems.
+
+Efficient PHY Layer Abstraction under Imperfect Channel Estimation for Wi-Fi and B5G Systems      
+                                                                                
+                                                                                University of Washington Python/NS3-3, Seattle, WA 
+                                                                                Advisor: Sumit Roy, Tom Henderson
+
+As network simulators such as NS3 have been suffering from the large computational complexity in the physical (PHY) layer,
+a PHY layer abstraction model that efficiently and accurately characterizes the PHY layer performance from the system level
+simulations is well-needed. This project improves an efficient PHY layer method, EESM-log-SGN PHY layer abstraction, by
+considering the presence of channel estimation error. Finally, the developed methods are validated under different orthogonal
+frequency division multiplexing (OFDM) scenarios.
+
