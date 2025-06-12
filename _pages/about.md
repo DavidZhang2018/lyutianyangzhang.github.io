@@ -41,17 +41,17 @@ will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
 
 Key Publications
 ------
-Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
-and High Reliability”, Accepted, IEEE Transactions on Green Communications and Networking.
+    Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
+    and High Reliability”, Accepted, IEEE Transactions on Green Communications and Networking.
 
 
-Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao∗, Xiangyu Gao and Valin Sathya, “IEEE 802.11be Network Throughput
-Optimization with Multi-Link Operation and AP Controller,” IEEE Internet of Things Journal, vol. 11, no. 13, pp. 23850-23861, 1
-July1, 2024.
+    Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao∗, Xiangyu Gao and Valin Sathya, “IEEE 802.11be Network Throughput
+    Optimization with Multi-Link Operation and AP Controller,” IEEE Internet of Things Journal, vol. 11, no. 13, pp. 23850-23861, 1
+    July1, 2024.
 
-Lyutianyang Zhang, Yaping Sun, Zhiyong Chen∗ and Sumit Roy, “Communications-Caching-Computing Resource Allocation for
-Bidirectional Data Computation in Mobile Edge Networks,” IEEE Transactions on Communications, vol. 69, no. 3, pp. 1496-1509,
-March 2021.
+    Lyutianyang Zhang, Yaping Sun, Zhiyong Chen∗ and Sumit Roy, “Communications-Caching-Computing Resource Allocation for
+    Bidirectional Data Computation in Mobile Edge Networks,” IEEE Transactions on Communications, vol. 69, no. 3, pp. 1496-1509,
+    March 2021.
 
 Hao Yin, Lyutianyang Zhang(Corresponding Author) and Sumit Roy, “Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair
 Scheduling,“ IEEE Transactions on Communications, vol. 69, no. 2, pp. 1080-1093, Feb. 2021.
