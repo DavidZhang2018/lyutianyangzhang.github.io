@@ -23,18 +23,24 @@ Work experience
   * Chongqing University, The School of Micro-Electronics and Communication Engineering
 
 * 2024/09-2025/02: Senior Wi-Fi Standard Engineer
-  * Huawei Co. Ltd.
-  * Duties includes: Wi-Fi 7/8 Standardization 
+  * Huawei Co. Ltd., Shenzhen, China
+  * Duties includes: Wi-Fi 7/8 Standardization
+  * Supervisor: Ming Gan
 
 * 2023/06-2024/05: Wi-Fi Performance Software Engineer
-  * Apple Inc., Wireless
+  * Apple Inc., Cupertino, California, USA
   * Duties includes: iPhone Wi-Fi Technology, PHY&MAC layer Performance, Wireless Automation, Link Adaptation, Test Setup and Data Analysis. 
   * Supervisor: Sungho Yun
 
 * 2022/06-2022/10: 5G System Engineer
-  * Celona Inc.
+  * Celona Inc., Cupertino, California, USA
   * Duties included: 5G O-RAN system integration, data analysis, and performance test
-  * Supervisor: Vanlin Sathya 
+  * Supervisor: Vanlin Sathya
+
+* 2019/06-2019/08: Summer Spectrum Researcher
+  * Bell Lab, Nashville, Chicago, USA
+  * Duties included: Spectrum Analysis for Railway System, Doppler Effect Analysis.
+  * Supervisor: Moorut Prakash 
   
 Skills
 ------
