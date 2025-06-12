@@ -9,28 +9,83 @@ redirect_from:
 
 Lyutianyang Zhang received his B.E. degree in electronic communication from The Australian National University and Beijing Institute of Technology in 2017. He received the M.Sc. degree and Ph.D. degree in Electrical Engineering from the University of Washington, Seattle, WA, USA, in 2019 and 2023, respectively. He is currently an Assistant Professor at the Chongqing University with the School of Microelectronics and Communication Engineering. He is an active contributor and voter in the IEEE 802.11bn (Wi-Fi 8) Working Group, focusing on PHY and MAC standardization. Previously, he worked as a Wi-Fi Performance Software Engineer at Apple, Cupertino, CA, focusing on PHY/MAC layer performance evaluation and optimization for commercial wireless products. His research interests include PHY-MAC cross-layer resource optimization for next-generation wireless networks. deep learning-based wireless algorithm design, 5G NR sidelink simulation, Wi-Fi 7/8 system design.
 
-A data-driven personal website
+Key Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
+and High Reliability”, Accepted, IEEE Transactions on Green Communications and Networking.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao∗, Xiangyu Gao and Valin Sathya, “IEEE 802.11be Network Throughput
+Optimization with Multi-Link Operation and AP Controller,” IEEE Internet of Things Journal, vol. 11, no. 13, pp. 23850-23861, 1
+July1, 2024.
 
-Getting started
+Lyutianyang Zhang, Yaping Sun, Zhiyong Chen∗ and Sumit Roy, “Communications-Caching-Computing Resource Allocation for
+Bidirectional Data Computation in Mobile Edge Networks,” IEEE Transactions on Communications, vol. 69, no. 3, pp. 1496-1509,
+March 2021.
+
+Hao Yin, Lyutianyang Zhang(Corresponding Author) and Sumit Roy, “Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair
+Scheduling,“ IEEE Transactions on Communications, vol. 69, no. 2, pp. 1080-1093, Feb. 2021.
+
+Liu Cao, Lyutianyang Zhang(Corresponding Author), Sian Jin and Sumit Roy, “Revisiting Multi-User Downlink in IEEE 802.11be/bn: A Designers
+Guide to MU-MIMO”, Major Review, IEEE Communications Standard Magazine.
+
+Zhengchuan Chen, Junyao Zhu, Nikolaos Pappas, Lyutianyang Zhang(Corresponding Author), and Min Wang, “Real-Time Status Update System in A
+Parallel Blocking Queue,” IEEE Open Journal of the Communications Society, vol. 6, pp. 4608-4623, 2025.
+
+Lyutianyang Zhang, Hao Yin∗, Sumit Roy, and Liu Cao,“Multi-Access Point Coordination for Next-Gen Wi-Fi Networks Aided
+by Deep Reinforcement learning,” IEEE Systems Journal, vol. 17, no. 1, pp. 904-915, March 2023.
+
+Xiangyu Gao, Hao Yin, Sumit Roy, and Lyutianyang Zhang(Corresponding Author),“Static Background Removal in Vehicular Radar: Filtering in
+Azimuth-Elevation-Doppler Domain,” in IEEE Sensors Journal, vol. 25, no. 3, pp. 5249-5258, 2025.
+
+L. Cao, Lyutianyang Zhang, Sumit Roy, “Efficient PHY Layer Abstraction under Imperfect Channel Estimation,” IEEE
+Wireless Communications Letters, vol. 12, no. 3, pp. 530-534, March 2023.
+
+Peng Liu, Chen Shen, Chunmei Liu, Fernando J. Cintr´on, Lyutianyang Zhang, Liu Cao, Richard Rouil, Sumit Roy, “Towards
+5G new radio sidelink communications: A versatile link-level simulator and performance evaluation,” Computer Communications,
+Volume 208, 2023, Pages 231-243, ISSN 0140-3664.
+
+Working Expereience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Assistant Professor - 2025/2-current                      Chongqing University, Chongqing, China 
+Senior Wi-Fi Standard Engineering - 2024/09-2025/02       Huawei Technology Co. Ltd., Shenzhen, Guangdong, China
+Wi-Fi Performance Software Engineer - 2023/06-2024/06     Apple Inc., Cupertino, California, USA
 
-Site-wide configuration
+Patent & Wi-Fi 8 Standard Proposal
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Lyutianyang Zhang, et. al., “Support NPCA in Co-TDMA”, IEEE 802.11-25/0204, Huawei.
 
-Create content & metadata
+Lyutianyang Zhang, et. al., “AP ID Notification in MAPC with Coexisting NPCA”, Inside Patent ID (Huawei), 92080862, will
+be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “Proportional Fairness in CTDMA”, Inside Patent ID (Huawei), 92078108, will be issued by the end
+of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “NPCA in CTDMA”, Inside Patent ID (Huawei), 92078107, will be issued by the end of 2025, key
+Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “Cross-link-aided Channel Switch in NPCA”, Inside Patent ID (Huawei), 92075068, will be issued
+by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “AP ID Notification in MAPC with Coexisting NPCA”, Inside Patent ID (Huawei), 92080862,
+submitted at 2024-12-02, will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Lyutianyang Zhang, et. al., “ LDPC reliability enhancements”, Inside Patent ID (Huawei), 92078768, submitted at 2024-12-02,
+will be issued by the end of 2025, key Wi-Fi 8 invention US Patent.
+
+Research Project
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+IEEE 802.11ax/be Link-Level Simulator Design and Optimized Channel Sounding            University of Washington Matlab, Seattle, WA
+                                                                                                                 Advisor: Sumit Roy
+
+This simulator is design for full phy layer plus frame level packet exchange for IEEE 802.11ac/ax/be performance analysis on
+packet level emphasizing channel sounding considering time-varying IEEE channel model. The channel sounding period optimization is one of the major advancing direction in next-Gen WiFi system because the channel sounding period and the correspondingly introduced overhead can impact the overall network throughput
+significantly. In this project, channel sounding period problem is formulated as a non-convex problem, which brings huge challenge to
+optimal channel sounding period. Optimization theory, machine learning techniques are utilized to propose the algorithm to pinpoint the globally optimal
+channel sounding period with high time-complexity and sub-optimal channel sounding period with lower time-complexity for
+universal WiFi systems.
+
+
+
 
 **Markdown generator**
 
