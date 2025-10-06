@@ -59,6 +59,10 @@ Skills
 
 Publications
 -------
+* L Zhang, L Cao, D Wei, M Chen, Z Chen, S Cui, “Cross-Layer Channel Sounding Optimization Towards Next-Gen Wi-Fi: From Model Driven to Data Driven”, Accepted, IEEE Transactions on Wireless Communications
+
+* L Cao, L Zhang, S Roy, “Revisiting Downlink MU-MIMO in Wi-Fi 7/8: Insights From a Case Studyn”, Accepted, IEEE Communications Standards Magazine
+
 * Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao, “Scheduling IEEE 802.11be Multi-Link Operation for Low Latency
 and High Reliability”, Accepted, IEEE Transactions on Green Communications and Networking.
 
